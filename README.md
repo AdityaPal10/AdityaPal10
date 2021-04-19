@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AdityaPal10
+- 👀 I’m interested in Coding and Inovation
+- 🌱 I’m currently learning pogramming in Python and Java..
+- 📫 Feel free to connect with me on- @Linkedin- https://www.linkedin.com/in/aditya-pal/
+- Check out my portfolio website- https://www.adityaptech.com/ 
+-Liked any of my projects? Let's conenct
